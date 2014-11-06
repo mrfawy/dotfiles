@@ -1,0 +1,8 @@
+this is a read me 
+Line 2 is here 	
+line 3 temp
+<<<<<<< HEAD
+modify this line from local:line 4 added from github online , modified
+=======
+line 4 added from github online , change from site
+>>>>>>> dce529d55ef00b68f6b7ec0d9b549b994b7790d4
